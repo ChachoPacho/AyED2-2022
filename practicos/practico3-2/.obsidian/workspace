@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "db9bbd55604ed57f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a6a75f5aa86cc1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "practico3-2.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "359bde0965f30d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7958f46d62003ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaf6924d409ca74f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bfa5cc7827602ee3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9b73cdc259178dab",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e5464f7e1eff322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e20d75a947c8877d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "practico3-2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b8a6a75f5aa86cc1",
+  "lastOpenFiles": [
+    "practico3-2.md",
+    "practico.09.voraces.grafos.pdf"
+  ]
+}
